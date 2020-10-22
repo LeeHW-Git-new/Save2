@@ -1,0 +1,15 @@
+﻿  cMainGame.cpp
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(65): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(68): warning C4316: 'cCubePC': object allocated on the heap may not be aligned 16
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(71): warning C4316: 'cCubeMan': object allocated on the heap may not be aligned 16
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(160): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(210): warning C4018: '<': signed/unsigned mismatch
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(221): warning C4018: '<': signed/unsigned mismatch
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(354): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+d:\바탕화면\mygit\201020 - 복사본\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(396): warning C4018: '<': signed/unsigned mismatch
+  DX3D.vcxproj -> D:\바탕화면\Mygit\201020 - 복사본\DX3D_10월15일 ASCLoad_선생님\Debug\DX3D.exe
+  DX3D.vcxproj -> D:\바탕화면\Mygit\201020 - 복사본\DX3D_10월15일 ASCLoad_선생님\Debug\DX3D.pdb (Full PDB)

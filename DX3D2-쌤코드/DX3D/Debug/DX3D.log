@@ -1,0 +1,13 @@
+﻿  cBody.cpp
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(26): warning C4316: 'cCube': object allocated on the heap may not be aligned 16
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(29): warning C4316: 'cCube': object allocated on the heap may not be aligned 16
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(32): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(32): warning C4316: 'cCube': object allocated on the heap may not be aligned 16
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(35): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(35): warning C4316: 'cCube': object allocated on the heap may not be aligned 16
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(38): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(38): warning C4316: 'cCube': object allocated on the heap may not be aligned 16
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(41): warning C4305: 'argument': truncation from 'double' to 'FLOAT'
+c:\work\dx3d2-쌤코드\dx3d\cbody.cpp(41): warning C4316: 'cCube': object allocated on the heap may not be aligned 16
+  DX3D.vcxproj -> C:\work\DX3D2-쌤코드\Debug\DX3D.exe
+  DX3D.vcxproj -> C:\work\DX3D2-쌤코드\Debug\DX3D.pdb (Full PDB)

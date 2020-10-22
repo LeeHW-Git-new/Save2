@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  DX3D.cpp
+  cBody2.cpp
+  cCamera.cpp
+  cCharacter.cpp
+  cCube.cpp
+  cCubeMan.cpp
+  cCubeNode.cpp
+d:\바탕화면\mygit\200929\dx3d\dx3d.cpp(53): warning C4316: 'cMainGame': object allocated on the heap may not be aligned 16 (compiling source file DX3D.cpp)
+d:\바탕화면\mygit\200929\dx3d\ccubeman.cpp(33): warning C4316: 'cBody2': object allocated on the heap may not be aligned 16 (compiling source file cCubeMan.cpp)
+d:\바탕화면\mygit\200929\dx3d\ccubeman.cpp(38): warning C4316: 'cHead': object allocated on the heap may not be aligned 16 (compiling source file cCubeMan.cpp)
+d:\바탕화면\mygit\200929\dx3d\ccubeman.cpp(42): warning C4316: 'cLeftArm': object allocated on the heap may not be aligned 16 (compiling source file cCubeMan.cpp)
+d:\바탕화면\mygit\200929\dx3d\ccubeman.cpp(47): warning C4316: 'cRightArm': object allocated on the heap may not be aligned 16 (compiling source file cCubeMan.cpp)
+d:\바탕화면\mygit\200929\dx3d\ccubeman.cpp(52): warning C4316: 'cLeftLeg': object allocated on the heap may not be aligned 16 (compiling source file cCubeMan.cpp)
+d:\바탕화면\mygit\200929\dx3d\ccubeman.cpp(57): warning C4316: 'cRightLeg': object allocated on the heap may not be aligned 16 (compiling source file cCubeMan.cpp)
+  cCubePNT.cpp
+  cDeviceManager.cpp
+  cGrid.cpp
+  cHead.cpp
+  cLeftArm.cpp
+  cLeftLeg.cpp
+  cMainGame.cpp
+d:\바탕화면\mygit\200929\dx3d\cgrid.cpp(72): warning C4316: 'cPyramid': object allocated on the heap may not be aligned 16 (compiling source file cGrid.cpp)
+d:\바탕화면\mygit\200929\dx3d\cgrid.cpp(77): warning C4316: 'cPyramid': object allocated on the heap may not be aligned 16 (compiling source file cGrid.cpp)
+d:\바탕화면\mygit\200929\dx3d\cgrid.cpp(82): warning C4316: 'cPyramid': object allocated on the heap may not be aligned 16 (compiling source file cGrid.cpp)
+  cPyramid.cpp
+d:\바탕화면\mygit\200929\dx3d\cmaingame.cpp(36): warning C4316: 'cCubeMan': object allocated on the heap may not be aligned 16 (compiling source file cMainGame.cpp)
+d:\바탕화면\mygit\200929\dx3d\cpyramid.cpp(49): warning C4305: 'argument': truncation from 'double' to 'FLOAT' (compiling source file cPyramid.cpp)
+  cRightArm.cpp
+  cRightLeg.cpp
+  DX3D.vcxproj -> D:\바탕화면\Mygit\200929\Debug\DX3D.exe
+  DX3D.vcxproj -> D:\바탕화면\Mygit\200929\Debug\DX3D.pdb (Full PDB)

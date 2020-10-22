@@ -1,0 +1,12 @@
+﻿  cMainGame.cpp
+d:\문서\카카오톡 받은 파일\dx3d_10월14일 ascload_선생님\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(64): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+d:\문서\카카오톡 받은 파일\dx3d_10월14일 ascload_선생님\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(67): warning C4316: 'cCubePC': object allocated on the heap may not be aligned 16
+d:\문서\카카오톡 받은 파일\dx3d_10월14일 ascload_선생님\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(70): warning C4316: 'cCubeMan': object allocated on the heap may not be aligned 16
+d:\문서\카카오톡 받은 파일\dx3d_10월14일 ascload_선생님\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\문서\카카오톡 받은 파일\dx3d_10월14일 ascload_선생님\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(174): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+d:\문서\카카오톡 받은 파일\dx3d_10월14일 ascload_선생님\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(198): warning C4018: '<': signed/unsigned mismatch
+d:\문서\카카오톡 받은 파일\dx3d_10월14일 ascload_선생님\dx3d_10월15일 ascload_선생님\dx3d\cmaingame.cpp(185): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  DX3D.vcxproj -> D:\문서\카카오톡 받은 파일\DX3D_10월14일 ASCLoad_선생님\DX3D_10월15일 ASCLoad_선생님\Debug\DX3D.exe
+  DX3D.vcxproj -> D:\문서\카카오톡 받은 파일\DX3D_10월14일 ASCLoad_선생님\DX3D_10월15일 ASCLoad_선생님\Debug\DX3D.pdb (Full PDB)
